@@ -1,3 +1,9 @@
+
+### This code is associated with the paper from Watson et al., "Modelling the drivers of the spread of Plasmodium falciparum hrp2 gene deletions in sub-Saharan Africa". eLife, 2017. http://dx.doi.org/10.7554/eLife.25008
+
+
+
+
 # hrp2malaRia
 
 *Individual Malaria modelling*
